@@ -150,3 +150,22 @@ Released under the **MIT License** — free for personal and commercial use.
 ## **Support**
 
 If you like this project, consider starring the repository — it helps with visibility and the portfolio!
+
+---
+
+## **Mockups**
+
+
+<p align="center">
+  <img src="src/assets/mockups/IOS FRAME-1.png" width="250" />
+  <img src="src/assets/mockups/IOS FRAME-2.png" width="250" />
+  <img src="src/assets/mockups/IOS FRAME-3.png" width="250" />
+  <img src="src/assets/mockups/IOS FRAME-4.png" width="250" />
+  <img src="src/assets/mockups/IOS FRAME-5.png" width="250" />
+  <img src="src/assets/mockups/IOS FRAME-6.png" width="250" />
+  <img src="src/assets/mockups/IOS FRAME-7.png" width="250" />
+  <img src="src/assets/mockups/IOS FRAME-8.png" width="250" />
+  <img src="src/assets/mockups/IOS FRAME-9.png" width="250" />
+  <img src="src/assets/mockups/IOS FRAME-10.png" width="250" />
+</p>
+
